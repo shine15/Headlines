@@ -1,0 +1,15 @@
+.DS_Store
+
+## Build generated
+build/
+DerivedData
+
+## Various settings
+xcuserdata
+
+## Other
+*.xcuserstate
+
+# SwiftFormat
+BuildTools/.swiftpm
+BuildTools/.build

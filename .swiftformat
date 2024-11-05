@@ -1,0 +1,32 @@
+# acronyms
+--disable acronyms
+
+# fileHeader
+--header Copyright © 2024 Evan Su. All rights reserved.
+
+# extension access control
+--extensionacl on-declarations
+
+# indent
+--indent 4
+
+# prefer key path
+--disable preferKeyPath
+
+# commas
+--commas inline 
+
+# unusedArguments
+--disable unusedArguments
+
+# wrap
+--maxwidth 110
+--wraparguments before-first
+--wrapcollections before-first
+--disable wrapMultilineStatementBraces
+
+# self
+--self remove
+
+# excluded files
+--exclude */DerivedData
