@@ -10,7 +10,7 @@ A demo project that showcases article headlines.
 - SwiftUI-based UI with MVVM architecture.
 - Unit tests and mock data for testing view models, data store managers and utility functions.
 
-| ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 08 59](https://github.com/user-attachments/assets/96bd5a67-9820-44b4-8795-39c5f6158e94) | ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 42 25](https://github.com/user-attachments/assets/705abc84-9e94-424c-8226-101f67c922d1) | ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 42 58](https://github.com/user-attachments/assets/b87b0f23-a22a-4bc4-befb-11797e7633ac) | ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 43 45](https://github.com/user-attachments/assets/13411ed8-8a13-4abd-9d0a-626342996ca1) |
+| ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 08 59](https://github.com/user-attachments/assets/927f4c41-5474-493f-bc2f-f9f29f190be5) | ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 42 25](https://github.com/user-attachments/assets/b0c3815a-8c9f-4091-8715-f7fd5da6ee54) | ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 42 58](https://github.com/user-attachments/assets/707abb6e-e38f-49c8-be77-bbd9ad78db00) | ![Simulator Screenshot - iPhone 15 Pro - 2024-11-05 at 20 43 45](https://github.com/user-attachments/assets/2a71e696-8413-4398-aace-bd16ad4270e6) |
 | - | - | - | - |
 
 ## Get Started
